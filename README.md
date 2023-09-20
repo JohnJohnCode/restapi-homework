@@ -28,11 +28,10 @@ To run this project, you will need to add the following environment variables to
 During development my host of choice was [db4free.net](https://www.db4free.net/).
 ## Installation
 
-Install RestAPI homework dependencies with npm:
+Install RestAPI homework dependencies with npm (make sure you're inside of the root folder of the project):
 
 ```bash
-  npm install restapi-homework
-  cd restapi-homework
+  npm i
 ```
 Run a dev server (and possibly test using thunderbolt client / postman for example) with npm:
 
