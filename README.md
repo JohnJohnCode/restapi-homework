@@ -1,7 +1,7 @@
 
 # RestAPI homework
 
-This project is my solution to a task given to me in a job interview. The project itself is just a backend API that connects to a MySQL database host and allows its users to GET a list of all the users in the database or a single user, POST a new user, PUT update an existing user or DELETE an existing user. 
+This project is a simple backend API that connects to a MySQL database host and allows its users to GET a list of all the users in the database or a single user, POST a new user, PUT update an existing user or DELETE an existing user. 
 
 A single user then looks like so:
 ```bash
